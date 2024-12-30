@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-news"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
@@ -13,10 +13,10 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
-    url: "/#-educations"
+    url: "/#-Invited-Talks"
 
   - title: "Journal Review"
-    url: "/#-invited-talks"
+    url: "/#-Journal-Review"
 
   - title: "Contact"
-    url: "/#-internships"
+    url: "/#-Contact"
