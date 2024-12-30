@@ -44,8 +44,34 @@ redirect_from:
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
+- First price, 2020 China Industrial Engineering PhD Forum, *2020* 
+- Second Class Scholarship of Tsinghua University,	*2021-2024*
+- Second price, 2023 China Industrial Engineering PhD Forum, *2023*	
+- ISE Magazine Featured Article, *2024*                                                                         
+- Tsinghua Scholarship for Overseas Graduate Studies, *2024* 
+- IE’s Man of the Year, Department of Industrial Engineering, Tsinghua University, *2024*                        	
+- First price, 2024 Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
+- First price, 2024 Beijing Operations Research Society Annual Meeting (Student Group), *2024*
+
+- # 📖 Educations
+- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
+- *2024.01 - 2024.08*, Ph.D. visiting student, Operations Management at Durham University Business School, United Kingdom.
+- *2016.09 - 2020.06*, Undergraduate student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
+
+- # 💬 Invited Talks
+- 2019 China Industrial Engineering PhD Forum, Jiaozhou, China
+- 2020 China Industrial Engineering PhD Forum, Beijing, China
+- 2020 INFROMS Virtual Annual Meeting
+- 2023 POMS International Conference in China, Hangzhou, China
+- 2023 INFORMS Healthcare Conference, Toronto, Canada
+- 2023 China Industrial Engineering PhD Forum, Beijing, China
+- 2024 Annual Meeting of the Data Science and Operations Intelligence, Operations Research Society of China, Beijing, China
+- 2024 INFORMS Annual Meeting, Seattle, US
+- 2024 Beijing Operations Research Society Annual Meeting, Beijing, China
+
+- # 💻 Internships
+
 
 
 
