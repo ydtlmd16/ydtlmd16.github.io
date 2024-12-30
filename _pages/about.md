@@ -19,7 +19,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class="badge">IISE Transactions 2024</div>
+<div class="badge">IISE Transactions 2024</div></div>
 
 [Continuity-Skill-Restricted Scheduling and Routing Problem: Formulation, Optimization and Implications](https://www.tandfonline.com/doi/epdf/10.1080/24725854.2023.2215843?needAccess=true)
 
@@ -30,7 +30,7 @@ redirect_from:
 - 2024 ISE Magazine Featured Article.
 - 2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
-<div class="badge">POMS 2024</div>
+<div class="badge">POMS 2024</div></div>
 
 [Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/)
 
