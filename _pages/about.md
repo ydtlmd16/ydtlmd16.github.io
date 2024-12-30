@@ -52,7 +52,7 @@ redirect_from:
 - First price, 2024 Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
 - First price, 2024 Beijing Operations Research Society Annual Meeting (Student Group), *2024*
 
-- # 💬 Invited Talks
+# 💬 Invited Talks
 - 2019 China Industrial Engineering PhD Forum, Jiaozhou, China
 - 2020 China Industrial Engineering PhD Forum, Beijing, China
 - 2020 INFROMS Virtual Annual Meeting
@@ -63,7 +63,7 @@ redirect_from:
 - 2024 INFORMS Annual Meeting, Seattle, US
 - 2024 Beijing Operations Research Society Annual Meeting, Beijing, China
 
-- # 💻 Journal Review  
+# 💻 Journal Review  
 - European Journal of Operational Research
 -	IISE Transactions on Healthcare System Engineering
 -	Omega
