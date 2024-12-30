@@ -75,8 +75,13 @@ redirect_from:
 - 2024 INFORMS Annual Meeting, Seattle, US
 - 2024 Beijing Operations Research Society Annual Meeting, Beijing, China
 
-- # 💻 Internships
-
+- # 💻 Journal Review  
+- European Journal of Operational Research
+-	IISE Transactions on Healthcare System Engineering
+-	Omega
+-	IEEE Transactions on Automation Science and Engineering
+-	Service Science
+-	Journal of the Operational Research Society
 
 
 
