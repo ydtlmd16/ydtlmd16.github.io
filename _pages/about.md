@@ -22,11 +22,11 @@ redirect_from:
 **Mingda Liu**, Yanlu Zhao, Xiaolei Xie
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=q1cdK9sAAAAJ&citation_for_view=q1cdK9sAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **IISE Transactions**, 56(2), 201-220, 2024.
+- ISE Magazine Featured Article.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
