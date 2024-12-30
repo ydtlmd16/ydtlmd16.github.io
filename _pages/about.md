@@ -30,8 +30,18 @@ redirect_from:
 - 2024 ISE Magazine Featured Article.
 - 2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
+<div class="badge">POMS 2024</div>
 
+[Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/)
 
+**Mingda Liu**, Yanlu Zhao, Xiaolei Xie
+
+[**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
+- **Production and Operations Management**, 56(2), 201-220, 2024.
+- 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting.
+- 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
+
+  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IISE Transactions 2024</div><img src='images/500x300.png' alt="sym" width="10%"></div></div>
 <div class='paper-box-text' markdown="1">
 
