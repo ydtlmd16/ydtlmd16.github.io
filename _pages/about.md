@@ -20,6 +20,7 @@ redirect_from:
 # 📝 Publications 
 
 <div class="badge">IISE Transactions 2024</div>
+
 [Continuity-Skill-Restricted Scheduling and Routing Problem: Formulation, Optimization and Implications](https://www.tandfonline.com/doi/epdf/10.1080/24725854.2023.2215843?needAccess=true)
 
 **Mingda Liu**, Yanlu Zhao, Xiaolei Xie
