@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Contact"
+  - title: "Educations"
     url: "/#-news"
 
   - title: "Publications"
@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "Invited Talks"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Journal Review"
     url: "/#-invited-talks"
 
-  - title: "Internships"
+  - title: "Contact"
     url: "/#-internships"
