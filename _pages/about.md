@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 🎉 About
+# 🙋‍♂️🎉 About
 I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua University under the supervision of Prof. Xiaolei Xie, where I also earned my Bachelor of Engineering degree. From January to August 2024, I visited Durham University Business School in the United Kingdom, under the supervision of Prof. Yanlu Zhao. My research interest includes mixed-integer programming and data-driven optimization in the areas of healthcare operations management and digitally-enabled intermodal transportation. I have published papers at top-tier international journals in the fields of management science and industrial engineering, with total <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including the 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting and the 2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum. Additionally, I serve as the Principal Investigator for the NSFC Doctoral Student Fund (No. 723B2014), which supports my ongoing project, "Research on Digitally-Enabled Vehicle Collaborative Scheduling and Service Operation Decisions for the Multimodal Freight Transport Sector" (May 2024–December 2026).
+
+**<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor in 2025. If you have any information, please contact me!</font>**
+
 
 # 📖 Educations
 - *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
