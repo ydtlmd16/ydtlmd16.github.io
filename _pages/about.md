@@ -16,8 +16,8 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 
 
 # 📖 <font color="#4A708B">Educations</font>
-- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Xiaolei Xie](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
-- *2024.01 - 2024.08*, Ph.D. visiting student, Operations Management at Durham University Business School, United Kingdom. (Advisor: Dr. [Yanlu Zhao](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
+- *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Xiaolei Xie](https://scholar.google.com/citations?user=XpGnNI8AAAAJ&hl=en)). <br>
+- *2024.01 - 2024.08*, Ph.D. visiting student, Operations Management at Durham University Business School, United Kingdom. (Advisor: Dr. [Yanlu Zhao](https://yanluzhao.com/)). <br>
 - *2016.09 - 2020.06*, Undergraduate student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
 
 # 📝 <font color="#4A708B">Publications</font>
