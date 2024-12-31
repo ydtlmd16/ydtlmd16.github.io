@@ -15,12 +15,12 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 **<font color="#990000">I am actively seeking a position as a tenure-tracked Assistant Professor in 2025. If you have any information, please contact me!</font>**
 
 
-# 📖 Educations
+# 📖 <font color="#4A708B">Educations</font>
 - *2020.06 - 2025.06 (now)*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
 - *2024.01 - 2024.08*, Ph.D. visiting student, Operations Management at Durham University Business School, United Kingdom.
 - *2016.09 - 2020.06*, Undergraduate student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
 
-# 📝 Publications 
+# 📝 <font color="#4A708B">Publications</font>
 
 <div class="badge">IISE Transactions 2024</div></div>
 
@@ -44,7 +44,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting.
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
-# 🎖 Honors and Awards
+# 🎖 <font color="#4A708B">Honors and Awards</font>
 - Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
 - First price, 2020 China Industrial Engineering PhD Forum, *2020* 
 - Second Class Scholarship of Tsinghua University,	*2021-2024*
@@ -55,7 +55,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - First price, 2024 Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
 - First price, 2024 Beijing Operations Research Society Annual Meeting (Student Group), *2024*
 
-# 💬 Invited Talks
+# 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
 - *2020* China Industrial Engineering PhD Forum, Beijing, China
 - *2020* INFROMS Virtual Annual Meeting
@@ -66,7 +66,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - *2024* INFORMS Annual Meeting, Seattle, US
 - *2024* Beijing Operations Research Society Annual Meeting, Beijing, China
 
-# 💻 Journal Review  
+# 💻 <font color="#4A708B">Journal Review</font>  
 - European Journal of Operational Research
 -	IISE Transactions on Healthcare System Engineering
 -	Omega
@@ -74,7 +74,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 -	Service Science
 -	Journal of the Operational Research Society
 
-# 🔥 Contact
+# 🔥 <font color="#4A708B">Contact</font>
 *Email*: lmd20@mails.tsinghua.edu.cn
 
 *Address*: Room 519, Shunde Building, Tsinghua University, Beijing 100084, China
