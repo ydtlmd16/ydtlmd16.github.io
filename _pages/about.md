@@ -45,7 +45,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting.
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
-# 🎖 <font color="#4A708B">Honors and Awards</font>
+# 🏆️ <font color="#4A708B">Honors and Awards</font>
 - Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
 - First price, 2020 China Industrial Engineering PhD Forum, *2020* 
 - Second Class Scholarship of Tsinghua University,	*2021-2024*
