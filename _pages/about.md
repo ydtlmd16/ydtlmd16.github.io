@@ -21,12 +21,13 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - *2016.09 - 2020.06*, Undergraduate student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
 
 # 📝 <font color="#4A708B">Publications</font>
+> (†: equal contribution, #: corresponding author)
 
 <div class="badge">IISE Transactions 2024</div></div>
 
 [Continuity-Skill-Restricted Scheduling and Routing Problem: Formulation, Optimization and Implications](https://www.tandfonline.com/doi/epdf/10.1080/24725854.2023.2215843?needAccess=true)
 
-**Mingda Liu**, Yanlu Zhao, Xiaolei Xie
+**Mingda Liu**, Yanlu Zhao, Xiaolei Xie#
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=q1cdK9sAAAAJ&citation_for_view=q1cdK9sAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
 - **IISE Transactions**, 56(2), 201-220, 2024.
@@ -37,7 +38,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 
 [Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/)
 
-**Mingda Liu**, Yanlu Zhao, Xiaolei Xie
+**Mingda Liu**, Yanlu Zhao, Xiaolei Xie#
 
 [**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
 - **Production and Operations Management**, *forthcoming*, 2024.
