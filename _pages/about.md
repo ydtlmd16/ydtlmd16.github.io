@@ -57,7 +57,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 ## Working Paper
 <div class="badge">OVO 2024+</div></div>
 
-Optimize-via-online
+Optimize-via-Online
 
 **Mingda Liu**, Yanlu Zhao, [Gar Goei Loke](https://scholar.google.com/citations?user=ZmSbpa4AAAAJ&hl=en)#
 
