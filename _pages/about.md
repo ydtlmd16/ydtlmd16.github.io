@@ -57,9 +57,9 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 ## Working Paper
 <div class="badge">OVO 2024+</div></div>
 
-[Optimize-via-online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4561006)
+Optimize-via-online
 
-**Mingda Liu**, Yanlu Zhao, Gar Goei Loke#
+**Mingda Liu**, Yanlu Zhao, [Gar Goei Loke](https://scholar.google.com/citations?user=ZmSbpa4AAAAJ&hl=en)#
 
 [**Project**]
 - Combine [Optimize-via-estimate]() with Bayesian inference.
