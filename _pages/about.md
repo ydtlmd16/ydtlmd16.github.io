@@ -53,6 +53,17 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting.
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
+
+## Working Paper
+<div class="badge">OVO 2024+</div></div>
+
+[Optimize-via-online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4561006)
+
+**Mingda Liu**, Yanlu Zhao, Gar Goei Loke#
+
+[**Project**]
+- Combine [Optimize-via-estimate]() with Bayesian inference.
+
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
 - Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
 - First price, 2020 China Industrial Engineering PhD Forum, *2020* 
