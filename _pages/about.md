@@ -78,7 +78,7 @@ Optimize-via-Online
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
 - *2020* China Industrial Engineering PhD Forum, Beijing, China
-- *2020* INFROMS Virtual Annual Meeting
+- *2020* INFORMS Virtual Annual Meeting
 - *2023* POMS International Conference in China, Hangzhou, China
 - *2023* INFORMS Healthcare Conference, Toronto, Canada
 - *2023* China Industrial Engineering PhD Forum, Beijing, China
