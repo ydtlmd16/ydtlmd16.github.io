@@ -54,7 +54,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
 
-## Working Paper
+Working Paper
 <div class="badge">OVO 2025+</div></div>
 
 Optimize-via-Online
