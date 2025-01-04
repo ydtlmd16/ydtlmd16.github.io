@@ -64,7 +64,7 @@ Optimize-via-Online
 **Project**
 - Combine [Optimize-via-estimate]() with Bayesian inference.
 
-#  <font color="#4A708B">Honors and Awards</font>
+# 🏆️ <font color="#4A708B">Honors and Awards</font>
 - Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
 - First price, 2020 China Industrial Engineering PhD Forum, *2020* 
 - Second Class Scholarship of Tsinghua University,	*2021-2024*
