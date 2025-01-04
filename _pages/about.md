@@ -54,7 +54,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
 
-Working Paper
+## Working Paper
 <div class="badge">OVO 2025+</div></div>
 
 Optimize-via-Online
@@ -66,14 +66,14 @@ Optimize-via-Online
 
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
 - Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
-- First price, 2020 China Industrial Engineering PhD Forum, *2020* 
+- First price, China Industrial Engineering PhD Forum, *2020* 
 - Second Class Scholarship of Tsinghua University,	*2021-2024*
-- Second price, 2023 China Industrial Engineering PhD Forum, *2023*	
+- Second price, China Industrial Engineering PhD Forum, *2023*	
 - ISE Magazine Featured Article, *2024*                                                                         
 - Tsinghua Scholarship for Overseas Graduate Studies, *2024* 
 - IE’s Man of the Year, Department of Industrial Engineering, Tsinghua University, *2024*                        	
-- First price, 2024 Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
-- First price, 2024 Beijing Operations Research Society Annual Meeting (Student Group), *2024*
+- First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
+- First price, Beijing Operations Research Society Annual Meeting (Student Group), *2024*
 
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
