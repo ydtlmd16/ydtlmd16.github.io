@@ -61,7 +61,7 @@ Optimize-via-Online
 
 **Mingda Liu**, Yanlu Zhao, [Gar Goei Loke](https://scholar.google.com/citations?user=ZmSbpa4AAAAJ&hl=en)#
 
-[**Project**]
+**Project**
 - Combine [Optimize-via-estimate]() with Bayesian inference.
 
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
