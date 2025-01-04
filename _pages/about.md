@@ -55,7 +55,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 
 
 ## Working Paper
-<div class="badge">OVO 2024+</div></div>
+<div class="badge">OVO 2025+</div></div>
 
 Optimize-via-Online
 
