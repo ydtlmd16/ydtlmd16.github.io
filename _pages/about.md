@@ -49,7 +49,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 **Mingda Liu**, Yanlu Zhao, Xiaolei Xie#
 
 [**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
-- **Production and Operations Management**, *forthcoming*, 2024.
+- **Production and Operations Management**, *forthcoming*, 2025.
 - 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting.
 - 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
