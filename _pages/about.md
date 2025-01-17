@@ -42,7 +42,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 - 2024 ISE Magazine Featured Article.
 - 2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
 
-<div class="badge">POMS 2024</div></div>
+<div class="badge">POMS 2025</div></div>
 
 [Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/)
 
