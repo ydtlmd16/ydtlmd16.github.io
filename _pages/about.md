@@ -44,7 +44,7 @@ I am a Ph.D. candidate in the Department of Industrial Engineering at Tsinghua U
 
 <div class="badge">POMS 2025</div></div>
 
-[Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/)
+[Last-Mile Attended Home Healthcare Delivery: A Robust Strategy to Mitigate Cascading Delays and Ensure Punctual Services](https://journals.sagepub.com/doi/abs/10.1177/10591478251318914)
 
 **Mingda Liu**, Yanlu Zhao, Xiaolei Xie#
 
