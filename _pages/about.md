@@ -41,7 +41,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=q1cdK9sAAAAJ&citation_for_view=q1cdK9sAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
 - **IISE Transactions**, 56(2), 201-220, 2024.
 - [2024 ISE Magazine Featured Article](https://www.iise.org/iemagazine/2024-01/html/research/research.html).
-- 2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
+- [2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum](https://mp.weixin.qq.com/s/iPGUYpj0OVomeEYKu4W2Xw).
 
 <div class="badge">POMS 2025</div></div>
 
@@ -52,7 +52,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 [**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:d1gkVwhDpl0C'></span></strong>
 - **Production and Operations Management**, *forthcoming*, 2025.
 - [2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting](https://mp.weixin.qq.com/s/hwKTySjk0-GU_UagHYyw6w).
-- 2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum.
+- [2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum](https://mp.weixin.qq.com/s/AnyB92uou4trDrS8nmc6Dg).
 
 
 ## Working Paper
@@ -73,7 +73,7 @@ Optimize-via-Online
 - Second price, China Industrial Engineering PhD Forum, *2023*	
 - ISE Magazine Featured Article, *2024*                                                                         
 - Tsinghua Scholarship for Overseas Graduate Studies, *2024* 
-- IE’s Man of the Year, Department of Industrial Engineering, Tsinghua University, *2024*                        	
+- [IE’s Man of the Year](https://mp.weixin.qq.com/s/r31Ou-6kimwFKCOgCwEesw), Department of Industrial Engineering, Tsinghua University, *2024*      
 - First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
 - First price, Beijing Operations Research Society Annual Meeting (Student Group), *2024*
 
