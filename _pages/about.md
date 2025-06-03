@@ -42,7 +42,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 - **IISE Transactions**, 56(2), 201-220, 2024.
 - 2025 IISE Transactions Supply Chain & Logistics Best Application Paper
 - [2024 ISE Magazine Featured Article](https://www.iise.org/iemagazine/2024-01/html/research/research.html).
-- [2020 Best Student Paper Award at the National Industrial Engineering Doctoral Academic Forum](https://mp.weixin.qq.com/s/iPGUYpj0OVomeEYKu4W2Xw).
+- [2020 Best Student Paper Award, National Industrial Engineering Doctoral Academic Forum](https://mp.weixin.qq.com/s/iPGUYpj0OVomeEYKu4W2Xw).
 
 <div class="badge">POMS 2025</div></div>
 
@@ -52,8 +52,8 @@ My research focuses on decision-making under uncertainty, and developing models,
 
 [**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:d1gkVwhDpl0C'></span></strong>
 - **Production and Operations Management**, *forthcoming*, 2025.
-- [2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting](https://mp.weixin.qq.com/s/hwKTySjk0-GU_UagHYyw6w).
-- [2023 Finalist for Best Student Paper Award at the National Industrial Engineering Doctoral Academic Forum](https://mp.weixin.qq.com/s/AnyB92uou4trDrS8nmc6Dg).
+- [2024 Best Student Paper Award, Beijing Operations Research Society Annual Meeting](https://mp.weixin.qq.com/s/hwKTySjk0-GU_UagHYyw6w).
+- [2023 Finalist for Best Student Paper Award, National Industrial Engineering Doctoral Academic Forum](https://mp.weixin.qq.com/s/AnyB92uou4trDrS8nmc6Dg).
 
 
 <span class='anchor' id='-honors-and-awards'></span>
