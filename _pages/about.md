@@ -56,16 +56,6 @@ My research focuses on decision-making under uncertainty, and developing models,
 - [2023 Finalist for Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum](https://mp.weixin.qq.com/s/AnyB92uou4trDrS8nmc6Dg).
 
 
-## Working Paper
-<div class="badge">OVO 2025+</div></div>
-
-Optimize-via-Online
-
-**Mingda Liu**, Yanlu Zhao, [Gar Goei Loke](https://scholar.google.com/citations?user=ZmSbpa4AAAAJ&hl=en)#
-
-**Project**
-- Combine [Optimize-via-Estimate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4561006) with Bayesian inference.
-
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
 - *2017* Scholarship of Department of Industrial Engineering, Tsinghua University    
