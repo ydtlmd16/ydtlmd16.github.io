@@ -68,16 +68,16 @@ Optimize-via-Online
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆️ <font color="#4A708B">Honors and Awards</font>
-- Scholarship of Department of Industrial Engineering, Tsinghua University, *2017*      
-- First price, China Industrial Engineering PhD Forum, *2020* 
-- Second Class Scholarship of Tsinghua University,	*2021-2024*
-- Second price, China Industrial Engineering PhD Forum, *2023*	
-- ISE Magazine Featured Article, *2024*                                                                         
-- Tsinghua Scholarship for Overseas Graduate Studies, *2024* 
-- [IE’s Man of the Year](https://mp.weixin.qq.com/s/r31Ou-6kimwFKCOgCwEesw), Department of Industrial Engineering, Tsinghua University, *2024*      
-- First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
-- First price, Beijing Operations Research Society Annual Meeting (Student Group), *2024*
-- IISE Transactions Supply Chain & Logistics Best Application Paper, *2025*
+- *2017* Scholarship of Department of Industrial Engineering, Tsinghua University    
+- *2020* First price, China Industrial Engineering PhD Forum
+- *2021-2024* Second Class Scholarship of Tsinghua University
+- *2023* Second price, China Industrial Engineering PhD Forum
+- *2024* ISE Magazine Featured Article                                                                     
+- *2024* Tsinghua Scholarship for Overseas Graduate Studies
+- *2024* [IE’s Man of the Year](https://mp.weixin.qq.com/s/r31Ou-6kimwFKCOgCwEesw), Department of Industrial Engineering, Tsinghua University  
+- *2024* First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society
+- *2024* First price, Beijing Operations Research Society Annual Meeting (Student Group)
+- *2025* IISE Transactions Supply Chain & Logistics Best Application Paper
 
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
