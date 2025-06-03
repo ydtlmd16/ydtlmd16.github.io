@@ -88,6 +88,7 @@ Optimize-via-Online
 - *2024* Annual Meeting of the Data Science and Operations Intelligence, Operations Research Society of China, Beijing, China
 - *2024* INFORMS Annual Meeting, Seattle, US
 - *2024* Beijing Operations Research Society Annual Meeting, Beijing, China
+- *2025* Chinese Society of Optimization, Overall Planning and Economic Mathematics Youth Forum, Harbin, China
 
 # 💻 <font color="#4A708B">Journal Review</font>  
 - European Journal of Operational Research
