@@ -40,6 +40,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=q1cdK9sAAAAJ&citation_for_view=q1cdK9sAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:u-x6o8ySG0sC'></span></strong>
 - **IISE Transactions**, 56(2), 201-220, 2024.
+- 2025 IISE Transactions Supply Chain & Logistics Best Application Paper
 - [2024 ISE Magazine Featured Article](https://www.iise.org/iemagazine/2024-01/html/research/research.html).
 - [2020 Best Student Paper Award at the China Industrial Engineering Doctoral Student Forum](https://mp.weixin.qq.com/s/iPGUYpj0OVomeEYKu4W2Xw).
 
