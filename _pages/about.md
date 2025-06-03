@@ -77,6 +77,7 @@ Optimize-via-Online
 - [IE’s Man of the Year](https://mp.weixin.qq.com/s/r31Ou-6kimwFKCOgCwEesw), Department of Industrial Engineering, Tsinghua University, *2024*      
 - First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society,	*2024* 
 - First price, Beijing Operations Research Society Annual Meeting (Student Group), *2024*
+- IISE Transactions Supply Chain & Logistics Best Application Paper, *2025*
 
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
