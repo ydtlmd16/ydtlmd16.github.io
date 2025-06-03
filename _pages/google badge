@@ -1,1 +1,12 @@
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+
+
+## Working Paper
+<div class="badge">OVO 2025+</div></div>
+
+Optimize-via-Online
+
+**Mingda Liu**, Yanlu Zhao, [Gar Goei Loke](https://scholar.google.com/citations?user=ZmSbpa4AAAAJ&hl=en)#
+
+**Project**
+- Combine [Optimize-via-Estimate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4561006) with Bayesian inference.
