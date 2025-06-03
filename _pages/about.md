@@ -70,12 +70,12 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2025* IISE Transactions Supply Chain & Logistics Best Application Paper
 
 # 💬 <font color="#4A708B">Invited Talks</font>
-- *2019* China Industrial Engineering PhD Forum, Jiaozhou, China
-- *2020* China Industrial Engineering PhD Forum, Beijing, China
+- *2019* National Industrial Engineering Doctoral Academic Forum, Jiaozhou, China
+- *2020* National Industrial Engineering Doctoral Academic Forum, Beijing, China
 - *2020* INFORMS Virtual Annual Meeting
 - *2023* POMS International Conference in China, Hangzhou, China
 - *2023* INFORMS Healthcare Conference, Toronto, Canada
-- *2023* China Industrial Engineering PhD Forum, Beijing, China
+- *2023* National Industrial Engineering Doctoral Academic Forum, Beijing, China
 - *2024* Annual Meeting of the Data Science and Operations Intelligence, Operations Research Society of China, Beijing, China
 - *2024* INFORMS Annual Meeting, Seattle, US
 - *2024* Beijing Operations Research Society Annual Meeting, Beijing, China
