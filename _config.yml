@@ -23,12 +23,12 @@ baidu_site_verification  : # get baidu_site_verification from https://ziyuan.bai
 author:
   name             : "Mingda Liu (刘明达)"
   avatar           : "images/Mingda_Liu.jpg"
-  bio              : "Tsinghua University"
+  bio              : "Beijing Jiaotong University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=q1cdK9sAAAAJ"
-  email            : "lmd20@mails.tsinghua.edu.cn"
+  email            : "mdliu@bjtu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Liu-Mingda"
   uri              :
   bitbucket        :
