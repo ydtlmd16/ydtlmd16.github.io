@@ -69,6 +69,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2024* First price, Annual Meeting and Doctoral Forum of the Service Science and Engineering Society
 - *2024* First price, Beijing Operations Research Society Annual Meeting (Student Group)
 - *2025* IISE Transactions Supply Chain & Logistics Best Application Paper
+- *2025* Bronze prize, Tsinghua University Graduates Sailing Award 
 
 # 💬 <font color="#4A708B">Invited Talks</font>
 - *2019* National Industrial Engineering Doctoral Academic Forum, Jiaozhou, China
@@ -81,6 +82,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2024* INFORMS Annual Meeting, Seattle, US
 - *2024* Beijing Operations Research Society Annual Meeting, Beijing, China
 - *2025* Chinese Society of Optimization, Overall Planning and Economic Mathematics Youth Forum, Harbin, China
+- *2025* INFORMS International Meeting, Singapore
 
 # 💻 <font color="#4A708B">Journal Review</font>  
 - European Journal of Operational Research
