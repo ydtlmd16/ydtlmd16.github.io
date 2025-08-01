@@ -52,7 +52,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 **Mingda Liu**, Yanlu Zhao, Xiaolei Xie#
 
 [**Project**](https://cloud.tsinghua.edu.cn/f/c2cf6587525f4e71bb40/) <strong><span class='show_paper_citations' data='q1cdK9sAAAAJ:d1gkVwhDpl0C'></span></strong>
-- **Production and Operations Management**, *forthcoming*, 2025.
+- **Production and Operations Management**, 34(8), 2303-2330, 2025.
 - [2024 Best Student Paper Award, Beijing Operations Research Society Annual Meeting](https://mp.weixin.qq.com/s/hwKTySjk0-GU_UagHYyw6w).
 - [2023 Finalist for Best Student Paper Award, National Industrial Engineering Doctoral Academic Forum](https://mp.weixin.qq.com/s/AnyB92uou4trDrS8nmc6Dg).
 
