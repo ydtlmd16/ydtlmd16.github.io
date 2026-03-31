@@ -90,7 +90,7 @@ My research focuses on decision-making under uncertainty, and developing models,
 - INFORMS Journal on Computing
 - Transportation Science
 - European Journal of Operational Research
--	IISE Transactions on Healthcare System Engineering
+-	IISE Transactions
 -	Omega
 -	IEEE Transactions on Automation Science and Engineering
 -	Service Science
