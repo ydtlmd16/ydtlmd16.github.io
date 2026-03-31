@@ -87,12 +87,13 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2026* POMSHK 2026, Shenzhen, China
 
 # 💻 <font color="#4A708B">Journal Review</font>  
+- INFORMS Journal on Computing
+- Transportation Science
 - European Journal of Operational Research
 -	IISE Transactions on Healthcare System Engineering
 -	Omega
 -	IEEE Transactions on Automation Science and Engineering
 -	Service Science
--	Journal of the Operational Research Society
 
 <span class='anchor' id='-contact'></span>
 # 🔥🌏️ <font color="#4A708B">Contact</font>
