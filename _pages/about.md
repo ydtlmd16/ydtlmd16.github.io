@@ -83,6 +83,8 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2024* Beijing Operations Research Society Annual Meeting, Beijing, China
 - *2025* Chinese Society of Optimization, Overall Planning and Economic Mathematics Youth Forum, Harbin, China
 - *2025* INFORMS International Meeting, Singapore
+- *2025* Annual Meeting of the Healthcare Operations Management Branch, Operations Research Society of China, Chengdu, China
+- *2026* POMSHK 2026, Shenzhen, China
 
 # 💻 <font color="#4A708B">Journal Review</font>  
 - European Journal of Operational Research
