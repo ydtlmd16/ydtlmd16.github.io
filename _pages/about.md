@@ -20,7 +20,7 @@ redirect_from:
 # 🙋‍♂️🎉 <font color="#4A708B">About</font>
 I am a Tenure-Track Associate Professor in the School of Economics and Management, Beijing Jiaotong University since June 2025. Prior to that, I earned my Ph.D. in Management Science and B.Eng. in Industrial Engineering from Tsinghua University. 
 
-My research focuses on decision-making under uncertainty, and developing models, frameworks, methods and algorithms that help decision-makers go from data to decisions, especially in the areas of healthcare operations management and digitally-enabled intermodal transportation. I have published papers in top-tier international journals in the fields of management science and industrial engineering, with total <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including the 2025 IISE Transactions Supply Chain & Logistics Best Application Paper and the 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting. Additionally, I serve as the Principal Investigator for the NSFC Doctoral Student Fund (No. 723B2014), which supports my ongoing project, "Research on Digitally-Enabled Vehicle Collaborative Scheduling and Service Operation Decisions for the Multimodal Freight Transport Sector" (May 2024–December 2026).
+My research focuses on decision-making under uncertainty, and developing models, frameworks, methods and algorithms that help decision-makers go from data to decisions, especially in the areas of healthcare operations management and digitally-enabled intermodal transportation. I have published papers in top-tier international journals in the fields of management science and industrial engineering, with total <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=q1cdK9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research has been recognized with several prestigious awards, including the 2025 IISE Transactions Supply Chain & Logistics Best Application Paper and the 2024 Best Student Paper Award at the Beijing Operations Research Society Annual Meeting. Additionally, I serve as the Principal Investigator for the NSFC Doctoral Student Fund (No. 723B2014), which supports my ongoing project, "Digitally-Enabled Vehicle Collaborative Scheduling and Service Operation Decisions for Multimodal Freight Transport Sector" (May 2024–December 2026).
 
 
 
@@ -29,6 +29,20 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2020.06 - 2025.06*, Ph.D. student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China. (Advisor: Dr. [Xiaolei Xie](https://scholar.google.com/citations?user=XpGnNI8AAAAJ&hl=en)). <br>
 - *2024.01 - 2024.08*, Ph.D. visiting student, Operations Management at Durham University Business School, United Kingdom. (Advisor: Dr. [Yanlu Zhao](https://yanluzhao.com/)). <br>
 - *2016.09 - 2020.06*, Undergraduate student, Department of Industrial Engineering, Tsinghua University (THU), P. R. China.
+
+
+# 💰 <font color="#4A708B">Research Grants</font>
+
+- *2027.01 - 2029.12*, **Principal Investigator**, National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category C), *Real-Time Scheduling for Drone–Ambulance Collaborative Emergency Medical Services*.
+
+- *2024.05 - 2026.12*, **Principal Investigator**, National Natural Science Foundation of China (NSFC), Young Students Basic Research Program (Doctoral Student), *Digitally-Enabled Vehicle Collaborative Scheduling and Service Operation Decisions for Multimodal Freight Transport Sector*.
+
+- *2026.07 - 2028.03*, **Principal Investigator**, Major Research Project of the Beijing Center for Sustainable Transportation Innovation, *Road–Metro Collaborative Delivery Vehicle Routing in Beijing with Split Demands*.
+
+- *2026.06 - 2027.03*, **Principal Investigator**, China Postdoctoral Science Foundation, 79th General Program, *Metro Freight Scheduling and Routing with Dynamic Balancing of Station Storage*.
+
+- *2027.01 - 2030.12*, **Project Participant**, National Natural Science Foundation of China (NSFC), General Program, *Drone–Vehicle Collaborative Scheduling for Emergency Disaster Relief under Multi-Source Uncertainty and Covariate Information*.
+
 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
@@ -85,20 +99,19 @@ My research focuses on decision-making under uncertainty, and developing models,
 - *2025* INFORMS International Meeting, Singapore
 - *2025* Annual Meeting of the Healthcare Operations Management Branch, Operations Research Society of China, Chengdu, China
 - *2026* POMSHK 2026, Shenzhen, China
+- *2026* POMS International Conference in China, Xi'an, China
 
 # 💻 <font color="#4A708B">Journal Review</font>  
 - INFORMS Journal on Computing
 - Transportation Science
 - European Journal of Operational Research
--	IISE Transactions
--	Omega
--	IEEE Transactions on Automation Science and Engineering
--	Service Science
+- IISE Transactions
+- Omega
+- IEEE Transactions on Automation Science and Engineering
+- Service Science
 
 <span class='anchor' id='-contact'></span>
 # 🔥🌏️ <font color="#4A708B">Contact</font>
 *Email*: mdliu@bjtu.edu.cn; ydtmingda16@163.com,   **<font color="#990000"> Please feel free to contact me via Email! </font>**
 
 *Address*: Room 804, Siyuan East Building, Beijing Jiaotong University, Beijing 100044, China
-
-
